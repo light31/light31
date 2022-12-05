@@ -9,7 +9,7 @@
 	* 크롤링 하여 가져올 웹페이지를 requests를 이용하여 그 웹페이지의 소스코드를 가져온 뒤 
 	* BeautifulSoup를 이용하여 Parsing 해옵니다.
 
-	* <p align="cecnter"><img src="naver.JPG" alt="exapmle"></p> 다음과 같이 내가 원하는 부분을 find를 이용하여 가져온 뒤 그것들을 출력합니다.
+	* 다음사진과 같이 내가 원하는 부분을 find를 이용하여 가져온 뒤 그것들을 출력합니다.<p align="cecnter"><img src="naver.JPG" alt="exapmle"></p>
 	* 위 내용들을 while문을 이용하여 계속 반복하도록 합니다.
 
 
