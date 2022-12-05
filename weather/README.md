@@ -11,3 +11,10 @@
 
 	* <p align="cecnter"><img src="naver.JPG" alt="exapmle"></p> 다음과 같이 내가 원하는 부분을 find를 이용하여 가져온 뒤 그것들을 출력합니다.
 	* 위 내용들을 while문을 이용하여 계속 반복하도록 합니다.
+
+
+
+## 참고한 사이트 및 자료
+* [첫번째 페이지](https://www.youtube.com/watch?v=WtWn7r91n-g)
+* [두번째 페이지](https://velog.io/@magnoliarfsit/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-2-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%82%A0%EC%94%A8-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0)
+* [세번째 페이지](https://jvvp.tistory.com/1063)
